@@ -1,0 +1,47 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+}
+.project {
+  width: 100%;
+  height: 1000px;
+  position: relative;
+  top: 2550px;
+  .projectContainer {
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    p {
+      font-weight: bold;
+      font-size: 26px;
+      line-height: 42px;
+    }
+    .sideBar{
+        width: 20%;
+        float: left;
+        ul{
+            li{
+                list-style: none;
+                color: gray;
+                font-size: 18px;
+                margin-bottom: 10px;
+            }
+            span{
+                color: blue;
+                border-left: 2px solid blue;
+                padding-left: 10px;
+                font-size: 18px;
+            }
+        }
+    }
+    .projectCard{
+        width: 75%;
+        float: right;
+        img{
+            margin: 10px;
+        }
+    }
+  }
+}

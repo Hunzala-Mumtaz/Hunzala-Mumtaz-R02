@@ -1,0 +1,118 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+}
+
+.experience {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 2550px;
+}
+
+.experience .experienceCards {
+  float: left;
+}
+
+.experience .experienceCards .c1 {
+  position: relative;
+  left: 400px;
+  top: 80px;
+  z-index: 10;
+}
+
+.experience .experienceCards .c1 .c1Style {
+  width: 280px;
+  height: 155px;
+}
+
+.experience .experienceCards .c1 .c1IllusStyle {
+  position: relative;
+  bottom: 100px;
+  right: 100px;
+}
+
+.experience .experienceCards .c2 {
+  position: relative;
+  left: 170px;
+}
+
+.experience .experienceCards .c2 .c1Style {
+  width: 280px;
+  height: 155px;
+}
+
+.experience .experienceCards .c2 .c1IllusStyle {
+  position: relative;
+  right: 300px;
+  bottom: 130px;
+}
+
+.experience .experienceCards .c3 {
+  position: relative;
+  left: 350px;
+  top: -50px;
+  z-index: 10;
+}
+
+.experience .experienceCards .c3 .c1Style {
+  width: 280px;
+  height: 155px;
+}
+
+.experience .experienceCards .c3 .c1IllusStyle {
+  position: relative;
+  bottom: 100px;
+  right: 100px;
+}
+
+.experience .experienceCards .c4 {
+  position: relative;
+  left: 230px;
+  bottom: 110px;
+}
+
+.experience .experienceCards .c4 .c1Style {
+  width: 280px;
+  height: 155px;
+}
+
+.experience .experienceCards .c4 .c1IllusStyle {
+  position: relative;
+  right: 30px;
+  top: 30px;
+}
+
+.experience .experienceContent {
+  position: relative;
+  top: 150px;
+  width: 40%;
+  float: right;
+}
+
+.experience .experienceContent .heading {
+  color: #2947a9;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.experience .experienceContent .content {
+  margin-top: 20px;
+  font-size: 16px;
+  color: #525b7a;
+}
+
+.experience .experienceContent button {
+  margin-top: 40px;
+  width: 140px;
+  height: 33px;
+  color: white;
+  background-color: #2947a9;
+  border: none;
+  cursor: pointer;
+  border-radius: 3px;
+}
+/*# sourceMappingURL=style.css.map */

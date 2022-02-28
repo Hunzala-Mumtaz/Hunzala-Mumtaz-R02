@@ -1,0 +1,52 @@
+* {
+  font-family: sans-serif;
+  margin: 0%;
+  padding: 0%;
+}
+
+.navBar {
+  width: 100%;
+  height: 80px;
+  position: relative;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.navBar img {
+  position: absolute;
+  width: 38px;
+  height: 47.5px;
+  left: 112px;
+  top: 16px;
+}
+
+.navBar p {
+  /* TheBox */
+  position: absolute;
+  width: 120px;
+  height: 35px;
+  left: 164px;
+  top: 22px;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  /* Primary */
+  color: #2947a9;
+}
+
+.navBar a {
+  position: relative;
+  left: 900px;
+  text-decoration: none;
+  color: #14171f;
+  margin-left: 25px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 21px;
+  position: relative;
+  top: 30px;
+  right: 120px;
+}
+/*# sourceMappingURL=style.css.map */
